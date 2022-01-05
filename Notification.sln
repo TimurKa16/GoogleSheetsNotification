@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationAnvar", "Test2_GoogleDrive\NotificationAnvar.csproj", "{4EA64C19-7BF4-4FAB-9555-873B0B54A340}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NotificationSetup", "Setup\Setup.vdproj", "{FF6C3420-3157-478B-9598-229C791FDF1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uninstaller", "Uninstaller\Uninstaller.csproj", "{CEAF6032-3219-44B0-B805-38EBDFE4114F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationMarat", "NotificationMarat\NotificationMarat.csproj", "{5A025B06-2AAC-45C2-B28A-42850AF16F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA64C19-7BF4-4FAB-9555-873B0B54A340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA64C19-7BF4-4FAB-9555-873B0B54A340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA64C19-7BF4-4FAB-9555-873B0B54A340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA64C19-7BF4-4FAB-9555-873B0B54A340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6C3420-3157-478B-9598-229C791FDF1C}.Debug|Any CPU.ActiveCfg = Debug
+		{FF6C3420-3157-478B-9598-229C791FDF1C}.Release|Any CPU.ActiveCfg = Release
+		{CEAF6032-3219-44B0-B805-38EBDFE4114F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAF6032-3219-44B0-B805-38EBDFE4114F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAF6032-3219-44B0-B805-38EBDFE4114F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAF6032-3219-44B0-B805-38EBDFE4114F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A025B06-2AAC-45C2-B28A-42850AF16F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A025B06-2AAC-45C2-B28A-42850AF16F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A025B06-2AAC-45C2-B28A-42850AF16F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A025B06-2AAC-45C2-B28A-42850AF16F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D793066F-B1C1-43B1-B1F7-95A30ECDFA48}
+	EndGlobalSection
+EndGlobal
